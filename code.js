@@ -40,6 +40,9 @@ fetch(link)
 
 
       let current_collection = db.filter(element => element.collection == collection);
+      current_collection.sort((a, b) => {
+        return b.get - a.get;
+      });
 
       let percent = current_collection.map(element => element.get).reduce((x, y) => Math.floor(x) + Math.floor(y));
       let total = current_collection.length;

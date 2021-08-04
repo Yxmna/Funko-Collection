@@ -109,7 +109,7 @@ a::before {
   transition: box-shadow 0.125s;
 }
 
-a:hover::before {
+li:hover a::before {
   box-shadow: none;
 }
 
