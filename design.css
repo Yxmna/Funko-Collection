@@ -63,7 +63,7 @@ li:hover h2, li:hover h3 {
 } */
 article ul>* img {
   width: 250px;
-  height: 250px;
+  max-height: 250px;
 }
 
 article ul>* a {
