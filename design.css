@@ -3,7 +3,6 @@
   src: url(./ttnorms-bold-webfont.woff2) format("woff2");
 }
 
-
 * {
   color: white;
   margin: 0;
@@ -63,7 +62,8 @@ li:hover h2, li:hover h3 {
   transition: all .125s;
 } */
 article ul>* img {
-  width: 100%;
+  width: 250px;
+  height: 250px;
 }
 
 article ul>* a {
