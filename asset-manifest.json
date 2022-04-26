@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d02277a.css",
+    "main.js": "/static/js/main.2fdfd5f9.js",
+    "static/media/ttnorms-bold-webfont.woff": "/static/media/ttnorms-bold-webfont.00c7d00d23a4002709ff.woff",
+    "static/media/ttnorms-default-regular-webfont.woff": "/static/media/ttnorms-default-regular-webfont.dcf439490a40d8061ed8.woff",
+    "index.html": "/index.html",
+    "main.0d02277a.css.map": "/static/css/main.0d02277a.css.map",
+    "main.2fdfd5f9.js.map": "/static/js/main.2fdfd5f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d02277a.css",
+    "static/js/main.2fdfd5f9.js"
+  ]
+}
